@@ -5,14 +5,14 @@ prefix for commands is *
 
 **fatso**
 
-**march**
-
-**nazgul**
-
 **fortuna**
+
+**help**
 
 **hobbit**
 
-**help**
+**march**
+
+**nazgul**
 
 **seeya**
