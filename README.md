@@ -1,4 +1,18 @@
 # Fatso-the-Bot
-A discord bot that plays a nice tuba song
+A discord bot that plays various songs on command
 
-*He only responds to one command and its fatso*
+prefix for commands is *
+
+**fatso**
+
+**march**
+
+**nazgul**
+
+**fortuna**
+
+**hobbit**
+
+**help**
+
+**seeya**
